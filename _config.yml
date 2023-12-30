@@ -1,0 +1,26 @@
+name: "BSidesNoida"
+title: "BSidesNoida"
+description: "BSidesNoida"
+archives: [2021]
+url: https://bsidesnoida.in/
+
+# data about the current event for google
+evt_year: "2024"
+evt_year_hex: "0x02"
+evt_startdate: "TBD"
+evt_enddate: "TBD"
+evt_loc_name: "TBD"
+evt_loc_address: "TBD"
+evt_loc_zip: "TBD"
+evt_loc_city: "Noida"
+
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+
+exclude: [CNAME, Readme.md, vendor, .gitignore]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
