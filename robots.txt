@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bsidesvienna.at/sitemap.xml
+Sitemap: https://bsidesnoida.in/sitemap.xml

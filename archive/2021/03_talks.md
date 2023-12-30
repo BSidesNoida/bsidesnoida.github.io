@@ -2,9 +2,9 @@
 title: Talks
 layout: archive
 year: 2022
-permalink: https://cfp.bsidesvienna.at/bsidesvienna-2022/talk/
+permalink: /archive/2021/talk/
 archive: true
 ---
 # Talks
 
-All talks can be found [here](https://cfp.bsidesvienna.at/bsidesvienna-2022/talk/)
+Oops we lost the data :/

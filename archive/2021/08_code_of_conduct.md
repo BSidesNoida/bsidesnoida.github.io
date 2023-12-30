@@ -2,7 +2,7 @@
 title: CoC
 layout: archive
 year: 2022
-permalink: /archive/2022/code_of_conduct/
+permalink: /archive/2021/code_of_conduct/
 archive: true
 ---
 # Code of Conduct [CoC]
