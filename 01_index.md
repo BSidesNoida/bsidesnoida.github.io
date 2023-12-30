@@ -63,7 +63,7 @@ Oops! CMA is on holiday...
 
 #### Volunteers
 
-You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesNoida), [via Mastodon](https://infosec.exchange/@BSidesNoida) or be old fashioned and send us an e-mail to crew [at] BSidesNoida [dot] at.
+You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesNoida), [via Instagram](https://instagram.com/BSidesNoida) or be old fashioned and send us an e-mail to [info@bsidesnoida.in](mailto:info@bsidesnoida.in).
 
 
 #### Tag for Twitter, Instagram, Linkedin etc
