@@ -11,8 +11,8 @@ TBD
 #### When does it start?
 TBD
 
-[Local time]
+[Local time == IST]
 
 #### How do I get there?
-- [OpenStreetMap](https://www.openstreetmap.org/#map=18/48.2117842/16.3816056)
-- [Google Maps](https://goo.gl/maps/pbnzAo4ydFWKGT2h8)
+> Why fear, when GMap is here!
+>- [Google Maps](#)
