@@ -17,7 +17,7 @@ We're teaming up with the sister communities to throw a BSides event straight af
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2021: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides not included)
+- 2021: [Talk schedule](http://bsidesnoida.in/archive/2021/schedule/) (slides not included)
 
 We are currently seeking a selection of presentations and shorter (15-minute) lightning talks.
 BSides is an open, international event, the official conference language for all talks, trainings and workshops

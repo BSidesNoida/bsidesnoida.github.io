@@ -6,12 +6,12 @@ permalink: /archive/2021/code_of_conduct/
 archive: true
 ---
 # Code of Conduct [CoC]
-All attendees, speakers, sponsors and volunteers at BSidesVienna are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe and welcoming environment for everybody.
+All attendees, speakers, sponsors and volunteers at BSidesNoida are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe and welcoming environment for everybody.
 
 #### TL;DR
 Walk your talk. Be excellent to each other || GTFO!
 
-BSidesVienna is dedicated to providing a harassment-free conference experience for everyone, regardless of skill, age, gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+BSidesNoida is dedicated to providing a harassment-free conference experience for everyone, regardless of skill, age, gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
 Think about your speech and how it might affect/offend others around you. Offensive sexual language and imagery is not appropriate and entirely unprofessional for any conference venue, in partciular in workshops and talks.
 Conference participants (including sponsors, staff and volunteers) violating these rules may be sanctioned or expelled from the venue at the discretion of- and after deliberation by the organisers.
