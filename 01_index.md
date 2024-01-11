@@ -22,6 +22,8 @@ You can find us on the following social media sites:
 
 [Linkedin](https://www.linkedin.com/company/bsidesnoida/)
 
+[Commudle](https://www.commudle.com/communities/security-bsides-noida)
+
 
 # News
 
