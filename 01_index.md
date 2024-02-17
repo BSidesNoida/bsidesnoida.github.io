@@ -5,14 +5,16 @@ year: 2024
 permalink: /
 ---
 
-# What's BSidesNoida?
+# [+]--> What's BSidesNoida?
 
 BSides is a community organized series of events all over the world promoting independent security research and education as well as discourse and collaboration within the community. We think it's important to have a BSides in Noida as these events have spread globally by now and are an important source of input to the information security community (more information on what Bsides events are and how they're organized is available at [securitybsides.com](http://www.securitybsides.com)).
 
 Bsides usually go hand-in-hand with a lot of tracks. As these events are free and have less of a commercial or academic conference atmosphere than a meetup-atomos, many people just come to talk to old friends, get new perspectives, and chat with people they've never met before. Of course, there are always great talks and workshops, and that's the main focus of every BSides event!
 
+# [+]--> [Become a Member](https://forms.gle/shMycCvGgu4v7EEAA) 
 
-# Socials
+
+# [+]--> Socials
 
 You can find us on the following social media sites:
 
@@ -25,7 +27,7 @@ You can find us on the following social media sites:
 [Commudle](https://www.commudle.com/communities/security-bsides-noida)
 
 
-# News
+# [+]--> News
 
 {% for news_entry in site.data.bs_2024.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
@@ -33,12 +35,12 @@ You can find us on the following social media sites:
 {% endfor %}
 
 
-# Event details
+# [+]--> Event details
 
 TBD
 
 
-# Tickets
+# [+]--> Tickets
 
 [TBD](#)
 
