@@ -11,7 +11,7 @@ BSides is a community organized series of events all over the world promoting in
 
 Bsides usually go hand-in-hand with a lot of tracks. As these events are free and have less of a commercial or academic conference atmosphere than a meetup-atomos, many people just come to talk to old friends, get new perspectives, and chat with people they've never met before. Of course, there are always great talks and workshops, and that's the main focus of every BSides event!
 
-# [+]--> [Become a Member](https://nas.io/bsides-noida) 
+# [+]--> [Become a Member](https://nas.io/bsidesnoida) 
 
 
 # [+]--> Socials
