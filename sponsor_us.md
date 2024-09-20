@@ -3,7 +3,7 @@ title: Become a sponsor
 layout: default
 year: 2024
 nomenu: true
-permalink: /sponsorlevel/
+permalink: /sponsor_us/
 ---
 # Become a Sponsor
 
