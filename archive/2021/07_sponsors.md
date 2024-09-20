@@ -15,7 +15,7 @@ Note that BSides is not a vendor marketing event, but you're more than welcome t
 
 # Our sponsors
 
-{%- for sponsor in site.data.bs_2022.sponsors %}
+{%- for sponsor in site.data.bs_2021.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 {% if sponsor.image %}
