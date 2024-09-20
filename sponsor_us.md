@@ -10,7 +10,7 @@ permalink: /sponsorlevel/
 |                                                         | Community                | Bronze                   | Silver                   | Gold                     | Platinum*          |
 |---------------------------------------------------------|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------:|
 | Available Slots                                         | 8                        | 4                        | 3                        | 2                        | 1                  |
-| Cost                                                    | 0 EUR                    | $500 / Rs 40,000         | $1.000 / Rs 80,000       | $5,000 /Rs 4,00,000      | $10.000 / 8,00,000 |
+| Cost                                                    | :heavy_multiplication_x: | $500 / Rs 40,000         | $1.000 / Rs 80,000       | $5,000 /Rs 4,00,000      | $10.000 / 8,00,000 |
 | Guaranteed event tickets                                | :heavy_multiplication_x: | 1                        | 3                        | 6                        | 12                 |
 | Social media shout out                                  | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark: |
 | Logo on the website                                     | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark: |
