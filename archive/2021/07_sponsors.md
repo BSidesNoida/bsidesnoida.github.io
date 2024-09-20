@@ -1,10 +1,12 @@
 ---send
 title: Sponsors
 layout: archive
-year: 2022
+year: 2021
 permalink: /archive/2021/sponsors/
 archive: true
 ---
+
+
 # Up your karma: sponsor hacker knowledge aquisition
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide
 for a nice and central location, multiple tracks, tech (beamers, PA, recording equipment), and ideally
