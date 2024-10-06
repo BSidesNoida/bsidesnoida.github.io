@@ -7,9 +7,9 @@ permalink: /sponsor_us/
 ---
 # Become a Sponsor
 
-|                                                         | Community                | Bronze                   | Silver                   | Gold                     | Platinum*          |
+|                                                         | Community                | Bronze                   | Silver                   | Gold*                    | Platinum*          |
 |---------------------------------------------------------|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------:|
-| Available Slots                                         | 8                        | 4                        | 3                        | 2                        | 1                  |
+| Available Slots                                         | 8                        | 4                        | 3                        | 1                        | 1                  |
 | Cost                                                    | :heavy_multiplication_x: | $500 / Rs 40,000         | $1.000 / Rs 80,000       | $5,000 /Rs 4,00,000      | $10.000 / 8,00,000 |
 | Guaranteed event tickets                                | :heavy_multiplication_x: | 1                        | 3                        | 6                        | 12                 |
 | Social media shout out                                  | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark: |
@@ -20,9 +20,9 @@ permalink: /sponsor_us/
 | Can bring stand-up display                              | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark: |
 | Logo on event badges                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark: |
 | Logo on shirts                                          | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark: |
-| Table at the exhibition space                           | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
-| Logo on speaker hoodies                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
+| Table at the exhibition space                           | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication:   | :heavy_check_mark: |
+| Co-branded swags                                        | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 
-*Custom Sponsorship (Platinum Level)
+*Custom Sponsorship (Platinum Level and Gold)
 All perks at the platinum level are up for discussion as are the options to support the event. Let’s talk 
 how we can benefit each other.
