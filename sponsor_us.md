@@ -20,7 +20,7 @@ permalink: /sponsor_us/
 | Can bring stand-up display                              | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark:       | :heavy_check_mark: |
 | Logo on event badges                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark: |
 | Logo on shirts                                          | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark: |
-| Table at the exhibition space                           | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication:   | :heavy_check_mark: |
+| Table at the exhibition space                           | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark:       | :heavy_check_mark: |
 | Co-branded swags                                        | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 
 *Custom Sponsorship (Platinum Level and Gold)
