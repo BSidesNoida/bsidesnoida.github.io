@@ -23,11 +23,11 @@ table,
 td,
 tr {
   border-style: solid;
-  border-color: #4f022f;
+  border-color: #fa1ea2;
   padding: 10px;
 }
 thead {
-  background-color: #4f022f;
+  background-color: #fa1ea2;
   color: #000000;
 }
 /* Needed for images inside a tags and mouseover */
