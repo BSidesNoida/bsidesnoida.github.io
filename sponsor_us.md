@@ -1,7 +1,7 @@
 ---
 title: Become a sponsor
 layout: default
-year: 2024
+year: 2025
 nomenu: true
 permalink: /sponsor_us/
 ---
