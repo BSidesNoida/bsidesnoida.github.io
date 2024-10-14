@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-year: 2024
+year: 2025
 permalink: /
 ---
 
@@ -29,7 +29,7 @@ You can find us on the following social media sites:
 
 # [+]--> News
 
-{% for news_entry in site.data.bs_2024.news %}
+{% for news_entry in site.data.bs_2025.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
@@ -77,5 +77,5 @@ Please use [#BSidesNoida](https://twitter.com/search?q=BSidesNoida) for content 
 
 #### Crew
 
-* {% for member in site.data.bs_2024.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2025.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others
