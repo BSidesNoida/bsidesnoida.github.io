@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 layout: default
-year: 2024
+year: 2025
 permalink: /sponsors/
 ---
 # Up your karma: sponsor hacker knowledge aquisition
