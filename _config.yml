@@ -1,11 +1,11 @@
 name: "BSidesNoida"
-title: "BSidesNoida"
+title: "BSidesNoida - 0x02"
 description: "BSidesNoida"
 archives: [2021]
 url: https://bsidesnoida.in/
 
 # data about the current event for google
-evt_year: "2024"
+evt_year: "2025"
 evt_year_hex: "02"
 evt_startdate: "TBD"
 evt_enddate: "TBD"
