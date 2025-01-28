@@ -5,7 +5,7 @@ year: 2025
 nomenu: true
 permalink: /assets/
 ---
-# Become a Sponsor
+# Assets
 
 ![alt text](img/head/bsidesnoida_default_blackbg_noanm.png)
 
