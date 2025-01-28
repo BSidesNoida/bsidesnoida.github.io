@@ -7,11 +7,11 @@ url: https://bsidesnoida.in/
 # data about the current event for google
 evt_year: "2025"
 evt_year_hex: "03"
-evt_startdate: "TBD"
-evt_enddate: "TBD"
-evt_loc_name: "TBD"
-evt_loc_address: "TBD"
-evt_loc_zip: "TBD"
+evt_startdate: "21/08/2025"
+evt_enddate: "22/08/2025"
+evt_loc_name: "Noida"
+evt_loc_address: "Noida"
+evt_loc_zip: "201301"
 evt_loc_city: "Noida"
 
 markdown: kramdown
