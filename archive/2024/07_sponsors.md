@@ -1,8 +1,8 @@
 ---
 title: Sponsors
 layout: archive
-year: 2021
-permalink: /archive/2021/sponsors/
+year: 2024
+permalink: /archive/2024/sponsors/
 archive: true
 ---
 
@@ -17,7 +17,7 @@ Note that BSides is not a vendor marketing event, but you're more than welcome t
 
 # Our sponsors
 
-{%- for sponsor in site.data.bs_2021.sponsors %}
+{%- for sponsor in site.data.bs_2024.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 {% if sponsor.image %}

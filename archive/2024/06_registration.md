@@ -1,10 +1,12 @@
 ---
 title: Registration
 layout: archive
-year: 2021
-permalink: /archive/2021/registration/
+year: 2024
+permalink: /archive/2024/registration/
 archive: true
 ---
 # Registration
 
-Oops we lost the data :/
+Attendance is free as always!(maybe)
+
+Get your tickets [HERE](https://go.bsidesnoida.in/ar). We only have limited space available so be sure to grab a ticket.

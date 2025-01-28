@@ -1,7 +1,7 @@
 ---
 title: CoC
 layout: archive
-year: 2022
+year: 2021
 permalink: /archive/2021/code_of_conduct/
 archive: true
 ---
