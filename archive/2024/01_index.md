@@ -15,9 +15,17 @@ More information on BSidesNoida will follow [via twitter](https://twitter.com/BS
 # News
 
 >> [22-12-2024 16:18:03] We mark a successful completion of BSides Noida 0x02
+
+
 >> [21-12-2024 16:25:46] We are overbooked.
+
+
 >> [20-12-2024 09:00:45] Agenda is out!!!!
+
+
 >> [01-12-2024 22:52:14] Buzzzzzz 0x02 is happeennniiinnngggg...??
+
+
 
 #### Crew
 
